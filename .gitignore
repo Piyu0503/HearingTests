@@ -14,6 +14,7 @@
 
 # VS / JetBrains Rider / VSCode
 .vscode/
+.vs/
 *.csproj
 *.unityproj
 *.sln
