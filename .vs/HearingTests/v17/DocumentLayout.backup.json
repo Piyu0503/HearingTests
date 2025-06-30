@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\CAVE\\HearingTests\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\lenovo\\desktop\\cave\\hearingtests\\assets\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1CCABFB4-A0C5-21AB-DAE8-DD5F79903876}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\cave\\hearingtests\\assets\\sanitizerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCABFB4-A0C5-21AB-DAE8-DD5F79903876}|Assembly-CSharp.csproj|solutionrelative:assets\\sanitizerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCABFB4-A0C5-21AB-DAE8-DD5F79903876}|Assembly-CSharp.csproj|c:\\users\\lenovo\\desktop\\cave\\hearingtests\\assets\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCABFB4-A0C5-21AB-DAE8-DD5F79903876}|Assembly-CSharp.csproj|solutionrelative:assets\\panelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SanitizerInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CAVE\\HearingTests\\Assets\\SanitizerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\SanitizerInteraction.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\CAVE\\HearingTests\\Assets\\SanitizerInteraction.cs",
+              "RelativeToolTip": "Assets\\SanitizerInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:12:32.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PanelManager.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\CAVE\\HearingTests\\Assets\\PanelManager.cs",
               "RelativeDocumentMoniker": "Assets\\PanelManager.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\CAVE\\HearingTests\\Assets\\PanelManager.cs",
               "RelativeToolTip": "Assets\\PanelManager.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:37:01.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T06:37:01.03Z"
             }
           ]
         }
